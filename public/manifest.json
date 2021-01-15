@@ -10,27 +10,14 @@
 	"description": "Quiz Progressive Web Application using TypeScript. Coded by Uzair Suria",
 	"icons": [
 		{
-			"src": "/icon-192x192.png",
-			"sizes": "192x192",
+			"src": "logo192.png",
 			"type": "image/png",
-			"purpose": "maskable"
+			"sizes": "192x192"
 		},
 		{
-			"src": "/icon-256x256.png",
-			"sizes": "256x256",
+			"src": "logo512.png",
 			"type": "image/png",
-			"purpose": "maskable"
-		},
-		{
-			"src": "/icon-384x384.png",
-			"sizes": "384x384",
-			"type": "image/png",
-			"purpose": "maskable"
-		},
-		{
-			"src": "/icon-512x512.png",
 			"sizes": "512x512",
-			"type": "image/png",
 			"purpose": "maskable"
 		}
 	]
